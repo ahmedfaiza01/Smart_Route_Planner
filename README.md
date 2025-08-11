@@ -117,6 +117,4 @@ g++ main.cpp -o route_planner
 
   GeeksforGeeks – Floyd-Warshall Algorithm
 
-  # 👨‍💻 Author
-
-  ✅ Ahmed Faiza (C231465)
+  
